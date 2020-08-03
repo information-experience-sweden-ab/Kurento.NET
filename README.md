@@ -11,7 +11,7 @@ Kurento is an open source software project providing a platform suitable for cre
 + KurentoDemo
    + A few simple examples of using kurento
 
-# how to use
+# How to use
 
 1. NuGet references
    > ```Install-Package Kurento.NET```
@@ -22,7 +22,7 @@ Kurento is an open source software project providing a platform suitable for cre
     var webRtcEndPoint = client.Create(new WebRtcEndpoint(pipeline));
 ```
 
-# Instance
+# Example
 
 Simple Many-to-Many Liezi
 (https://github.com/oBears/KurentoDemo)
